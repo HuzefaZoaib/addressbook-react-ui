@@ -9,4 +9,4 @@ There are two front-end applications leveraging this API, one is developed using
 
 ## Architecture Diagram
 
-![Architecture Diagram](http://addressbook-react-ui.s3-website-us-east-1.amazonaws.com/assets/React%20UI%20with%20Spring%20Boot%20API.png?raw=True)
+![Architecture Diagram](/public/React%20UI%20with%20Spring%20Boot%20API.png)
